@@ -11,7 +11,8 @@ Dynamic elements: Placeholder content is employed to emulate Netflix's assortmen
 
 Stylish CSS: The cascading style sheets offer a polished and contemporary appearance reminiscent of the Netflix brand.
 
-# Feel free to edit the code in your preferred editor
+# Code
+Feel free to edit the code in your preferred code editor, to suit your needs.
 
 # License
 This project is licensed under the MIT License. Feel free to use the code for personal or commercial purposes.
